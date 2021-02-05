@@ -48,7 +48,7 @@ const HomeScreen = () => {
                         <View style={style.card}>
 
                             <View style={style.Education}>
-                                <Text style={style.name}>Technical Skills</Text>
+                                <Text style={style.name}>Technical Skills y</Text>
                                 <View style={style.edDetails}>
                                     <Text style={style.Btech}>Web Technoliges:</Text>
                                     <Text style={style.Btech}>Html, Css, JavaScript, React-native</Text>
